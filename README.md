@@ -4,7 +4,7 @@
 
 <div>
   <text>
-    Bom aqui é tudos os exercícios que fiz na aula da FIAP, e cada pasta é um módulo. Obviamente cada módulo é representado por um número respectivamente.
+    Bom aqui é tudo os exercícios que fiz na aula da FIAP, e cada pasta é um módulo. Obviamente cada módulo é representado por um número respectivamente.
     Além que aqui aprendi:</text></div>
 <div><text>1- Introdução ao Python;</text></div>
 <div><text>2- Variáveis, tomada de decições e Laços de Repetições;</text></div> 
