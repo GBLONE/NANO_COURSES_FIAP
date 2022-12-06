@@ -14,3 +14,6 @@
 <div><text>6- Bibliotecas Externas e Sistema Operacional;</text></div>
 <div><text>7- Protocolos de Comunicação e Python;</text></div> 
 <div><text>8- Python x IoT</text></div>
+<div><br><text>Visite meu LinkedIn:<text/>
+  <br><a href="https://www.linkedin.com/in/gabriel-oliveira-607682231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
